@@ -1,6 +1,6 @@
-from alice import *
-from bob import *
-from carol import *
+from alice_lib import *
+from bob_lib import *
+from carol_lib import *
 import random
 from creatures import *
 import builtins
@@ -11,7 +11,7 @@ import os
 # start the game by making a global
 # variable for the player's stauts
 #===================================
-player = human("Playername", 10, 20, 3)
+player = human("Playername", 10, 20, 3,6)
 player.PrintStatus()
 
 #===========================================================
@@ -41,8 +41,8 @@ def fight(player, monster):
 builtins.fight = fight
 
 def ClearScreen():
-	os.system("clear") # unix
-	os.system("cls")   #windows
+	for i in range(20):
+		print()
 builtins.ClearScreen = ClearScreen
 
 

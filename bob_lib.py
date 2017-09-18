@@ -12,7 +12,7 @@ Unfortunately, there is a very big tortoise here,
 and there is no choice but to fight it
 """)
 
-	demon = creature("Demonic Tortoise",20,20,10)
+	demon = creature("Demonic Tortoise",20,20)
 	fight(player, demon)
 	if player.stamina <= 0:
 		print("You lost to the tortoise")
