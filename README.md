@@ -1,7 +1,7 @@
 # BllodsworthBayou
 GCSE Python Project
 
-<img src="https://grrbadge.com/img/countdown/Time left before coursework is due-2018-03-02-16-00-00.svg"><BR>
+<img src="https://grrbadge.com/img/countdown/Time left before the REAL Y11 coursework is due-2018-03-02-16-00-00.svg"><BR>
 We are in Bedford (UK) and here is our weather
 <img src="https://grrbadge.com/img/location-weather/Bedford.svg"><BR>
 
