@@ -1,6 +1,8 @@
 # BllodsworthBayou
 GCSE Python Project
 
+<img src="https://grrbadge.com/img/countdown/Time left before coursework is due-2018-03-02-16-00-00.svg">
+
 This is some code to get students started. Here is the basic idea...
 
 Each person has their own python file which contains the logic for moving between the locations, and also contains your own version of the fighting algorithm.
