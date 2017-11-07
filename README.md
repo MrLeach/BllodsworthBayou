@@ -1,7 +1,10 @@
 # BllodsworthBayou
 GCSE Python Project
 
-<img src="https://grrbadge.com/img/countdown/Time left before coursework is due-2018-03-02-16-00-00.svg">
+<img src="https://grrbadge.com/img/countdown/Time left before coursework is due-2018-03-02-16-00-00.svg"><BR>
+We are in Bedford (UK) and here is our weather
+<img src="https://grrbadge.com/img/location-weather/Bedford.svg"><BR>
+
 
 This is some code to get students started. Here is the basic idea...
 
